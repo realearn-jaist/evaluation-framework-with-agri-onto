@@ -4,3 +4,13 @@
 ##### Disclaimer: This repository contains executable source codes supporting our submission to ICAART 2024 (Short paper).
 
 ## Folder Documentation
+1. crop ontology to use:
+2. OWL2Vecstar:
+3. RDF2Vec:
+4. Word2Vec
+5. Cosine_similarity_OWL2Vec:
+6. Cosine_similarity_RDF2Vec:
+7. Cosine_similarity_Word2Vec:
+8. t_SNE_and_Heatmap_OWL2Vec:
+9. t_SNE_and_Heatmap_RDF2Vec:
+10. t_SNE_and_Heatmap_Word2Vec:
