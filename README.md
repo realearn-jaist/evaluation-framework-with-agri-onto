@@ -18,4 +18,4 @@ https://icaart.scitevents.org/
 9. t_SNE_and_Heatmap_RDF2Vec
 10. t_SNE_and_Heatmap_Word2Vec
 
-##### 1. The "rop ontology to use" File: #####This file contains the agriculture ontology constructed by the authors of this work, with various concepts, role names, and populated individuals. 
+#### 1. The "rop ontology to use" File: #### This file contains the agriculture ontology constructed by the authors of this work, with various concepts, role names, and populated individuals. 
