@@ -28,4 +28,7 @@ https://icaart.scitevents.org/
 **3. The "RDF2Vec" File:** It encompasses the source code that was run to produce the embedding for the designed ontology using RDF2Vec.
 
 **4. The "Word2Vec" File:** It includes the source code that was executed to generate the embedding for the designed ontology using Word2Vec.
-**5. The "Cosine_similarity_OWL2Vec"File:** It indicates the calculation of cosine similarity matrices for every 10 individuals in each considered class, utilizing vector representations generated using the OWL2Vec* algorithm 
+
+**5. The "Cosine_similarity_OWL2Vec"File:** It indicates the calculation of cosine similarity matrices for every 10 individuals in each considered class, utilizing vector representations generated using the OWL2Vec* algorithm.
+
+**6. The "Cosine_similarity_RDF2Vec"File:** It indicates the calculation of cosine similarity matrices for every 10 individuals in each considered class, utilizing vector representations generated using RDF2Vec algorithm 
