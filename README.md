@@ -31,4 +31,7 @@ https://icaart.scitevents.org/
 
 **5. The "Cosine_similarity_OWL2Vec"File:** It indicates the calculation of cosine similarity matrices for every 10 individuals in each considered class, utilizing vector representations generated using the OWL2Vec* algorithm.
 
-**6. The "Cosine_similarity_RDF2Vec"File:** It indicates the calculation of cosine similarity matrices for every 10 individuals in each considered class, utilizing vector representations generated using RDF2Vec algorithm 
+**6. The "Cosine_similarity_RDF2Vec"File:** It indicates the calculation of cosine similarity matrices for every 10 individuals in each considered class, utilizing vector representations generated using RDF2Vec algorithm.
+
+**7. Cosine_similarity_Word2Vec"File:** It indicates the calculation of cosine similarity matrices for every 10 individuals in each considered class, utilizing vector representations generated using Word2Vec algorithm.
+
