@@ -41,7 +41,7 @@ https://icaart.scitevents.org/
 
 **10. The "t_SNE_and_Heatmap_Word2Vec"File:**: In this segment of the code, we have incorporated a representation in the vector space formed by the embedding using the t-SNE technique. Moreover, we have illustrated the cosine similarity matrices for different classes in our ontology using heatmaps. Emphasizing that these visualizations are linked to the Word2Vec algorithm is crucial.
 
-## File Documentation
+## Paper
 **Title:**
 
 **Abstract:**
