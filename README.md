@@ -18,7 +18,7 @@ https://icaart.scitevents.org/
 9. t_SNE_and_Heatmap_RDF2Vec
 10. t_SNE_and_Heatmap_Word2Vec
 
-#### 1. The "crop ontology to use" File: This file contains the agriculture ontology constructed by the authors of this work, with various concepts, role names, and populated individuals. 
+#### 1. **1. The "crop ontology to use" File:**: This file contains the agriculture ontology constructed by the authors of this work, with various concepts, role names, and populated individuals. 
 #### 2. The "OWL2Vecstar" File: The latter contains the source code that was executed to generate the embedding or representation learning of the designed ontology using OWL2Vec*.
 #### 3. The "RDF2Vec" File: It encompasses the source code that was run to produce the embedding for the designed ontology using RDF2Vec.
 #### 4. The "Word2Vec" File: It includes the source code that was executed to generate the embedding for the designed ontology using Word2Vec.
