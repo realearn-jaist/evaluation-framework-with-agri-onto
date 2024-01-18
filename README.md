@@ -6,7 +6,7 @@
 
 **Disclaimer:** This repository contains executable source codes supporting our submission to ICAART 2024 (Short paper).
 
-## Link to the conference:
+## Link to the conference
 https://icaart.scitevents.org/
 
 ## File Documentation
