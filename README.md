@@ -33,7 +33,7 @@ https://icaart.scitevents.org/
 
 **6. The "Cosine_similarity_RDF2Vec"File:** It indicates the calculation of cosine similarity matrices for every 10 individuals in each considered class, utilizing vector representations generated using RDF2Vec algorithm.
 
-**7. The Cosine_similarity_Word2Vec"File:** It indicates the calculation of cosine similarity matrices for every 10 individuals in each considered class, utilizing vector representations generated using Word2Vec algorithm.
+**7. The "Cosine_similarity_Word2Vec"File:** It indicates the calculation of cosine similarity matrices for every 10 individuals in each considered class, utilizing vector representations generated using Word2Vec algorithm.
 
 **8. The "t_SNE_and_Heatmap_OWL2Vec"File:** In this code section, we have established a visualization in the vector space derived from the embedding using the t-SNE technique, as well as the representation through heatmaps of the cosine similarity matrices for the different classes of our ontology. It is worth noting that these visualizations pertain to the OWL2Vec* algorithm.
 
