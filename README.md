@@ -39,7 +39,7 @@ https://icaart.scitevents.org/
 
 **9. The "t_SNE_and_Heatmap_RDF2Vec"File:** Within this portion of the code, we have implemented a visualization in the vector space created from the embedding using the t-SNE technique. Additionally, we have represented the cosine similarity matrices for various classes in our ontology through heatmaps. It is important to highlight that these visualizations are associated with the RDF2Vec algorithm.
 
-**10. The "t_SNE_and_Heatmap_Word2Vec"File:**: In this segment of the code, we have incorporated a representation in the vector space formed by the embedding using the t-SNE technique. Moreover, we have illustrated the cosine similarity matrices for different classes in our ontology using heatmaps. Emphasizing that these visualizations are linked to the Word2Vec algorithm is crucial.
+**10. The "t_SNE_and_Heatmap_Word2Vec"File:** In this segment of the code, we have incorporated a representation in the vector space formed by the embedding using the t-SNE technique. Moreover, we have illustrated the cosine similarity matrices for different classes in our ontology using heatmaps. Emphasizing that these visualizations are linked to the Word2Vec algorithm is crucial.
 
 ## Paper
 **Title:** A Quantitative Assessment Framework for Modelling and Evaluation using Representation Learning in Smart Agriculture Ontology
