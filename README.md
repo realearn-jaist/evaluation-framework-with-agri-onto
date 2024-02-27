@@ -45,7 +45,7 @@ https://icaart.scitevents.org/
 **Title:** A Quantitative Assessment Framework for Modelling and Evaluation using Representation Learning in Smart Agriculture Ontology
 
 **Abstract:**
-
+ Understanding agricultural processes and their interactions can be improved with trustworthy and precise models. Such modelling boosts various related tasks, making it easier to take informed decisions in the realm of advanced agriculture. In our study, we present a novel agriculture ontology, primarily focusing on crop production. Our ontology captures fundamental domain knowledge concepts and their interconnections, particularly pertaining to key environmental factors. It encompasses static aspects like soil features, and dynamic ones such as climatic and thermal traits. In addition, we propose a quantitative framework for evaluating the quality of the ontology using the embeddings of all the concept names, role names, and individuals based on representation learning (i.e. OWL2Vec*, RDF2Vec, and Word2Vec) and dimensionality reduction for visualization (i.e. t distributed Stochastic Neighbor Embedding). The findings validate the robustness of OWL2Vec* among other embedding algorithms in producing precise vector representations of ontology, and also demonstrate that our ontology has well-defined categorization aspects in conjunction of the embeddings.
 
 ## Technical report
 
