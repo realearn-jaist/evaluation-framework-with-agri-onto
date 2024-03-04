@@ -4,7 +4,7 @@
 
 **Contacts:** k [dot] meghraoui [at] iav [dot] ac [dot] ma  / racharak [at] jaist [dot] ac [dot] jp / k [dot] aitelkadi [at] iav [dot] ac [dot] ma / s [dot] bensiali [at] iav [dot] ac [dot] ma / i [dot] sebari [at] iav [dot] ac [dot] ma
 
-**Disclaimer:** This repository contains executable source codes supporting our submission to ICAART 2024 (Short paper).
+**Disclaimer:** This repository contains executable source codes supporting our ICAART 2024 paper.
 
 ## Link to the conference
 https://icaart.scitevents.org/
