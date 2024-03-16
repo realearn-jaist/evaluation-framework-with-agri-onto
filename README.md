@@ -7,7 +7,7 @@
 **Disclaimer:** This repository contains executable source codes supporting our ICAART 2024 paper.
 
 ## Link to the conference
-https://icaart.scitevents.org/
+https://icaart.scitevents.org/?y=2024
 
 ## File Documentation
 1. crop ontology to use
@@ -47,6 +47,7 @@ https://icaart.scitevents.org/
 **Abstract:**
  Understanding agricultural processes and their interactions can be improved with trustworthy and precise models. Such modelling boosts various related tasks, making it easier to take informed decisions in the realm of advanced agriculture. In our study, we present a novel agriculture ontology, primarily focusing on crop production. Our ontology captures fundamental domain knowledge concepts and their interconnections, particularly pertaining to key environmental factors. It encompasses static aspects like soil features, and dynamic ones such as climatic and thermal traits. In addition, we propose a quantitative framework for evaluating the quality of the ontology using the embeddings of all the concept names, role names, and individuals based on representation learning (i.e. OWL2Vec*, RDF2Vec, and Word2Vec) and dimensionality reduction for visualization (i.e. t distributed Stochastic Neighbor Embedding). The findings validate the robustness of OWL2Vec* among other embedding algorithms in producing precise vector representations of ontology, and also demonstrate that our ontology has well-defined categorization aspects in conjunction of the embeddings.
 
-## Technical report
+## Technical Report of the Conference Paper 
+https://github.com/realearn-jaist/evaluation-framework-with-agri-onto/blob/main/Technical%20report.pdf
 
 
